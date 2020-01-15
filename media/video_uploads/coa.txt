@@ -1,0 +1,16 @@
+SPEAKER: M1
+That is where we need to look into what we call pipeline conflicts I imagine many different types of but for our case here if we're going to need just some cultural tree partial three types one is hardly resource conflicts.
+SPEAKER: M2
+The other one is actually a conflict due to data dependencies. When we talk about conflict right. Basically what we really mean is that such is a scenario where you will result in inefficiency of the pipeline.
+SPEAKER: M1
+Something different something that defers from this. This I do conditionally see here where everything works perfectly and every single cycle everyone is watching.
+SPEAKER: F1
+I ask you this.
+SPEAKER: M1
+So there are three types. One resource conflicts. Second one. Some inefficiency that will result from a data dependency is off your coat and last one is the typical branch statements a branch itself.
+SPEAKER: M2
+OK. It is actually all I can say that's a pipeline process it doesn't really like bunching. So when this bunch instructions typically there will be some inefficiencies of.
+SPEAKER: M1
+So some of this some conflicts could be managed by software some by hardware but they may or may not be able to fully resolve it. Sometimes you can reuse it. Sometimes you can feel you will grow it but may not be all the time. Present resource conflicts. Okay this comes about due to insufficient resources. Take for example doing your instruction one goes through a flash the court execute and it goes to the store.
+SPEAKER: M2
+They ran out before this case so I'm using a fourth pipeline gateway. The FDA represents touching on the instructions your deed represents the decoding of the instruction itself by the CPO. This is the east each where you perform all your additions subtractions comparing etc.. And lastly let's say your E that your addition or subtraction has other results. And that result.

@@ -1,0 +1,1971 @@
+{
+  "job": {
+    "lang": "en", 
+    "user_id": 76062, 
+    "name": "NestedIf.mp4", 
+    "duration": 140, 
+    "created_at": "Wed Jan 15 14:15:05 2020", 
+    "id": 17091423
+  }, 
+  "speakers": [
+    {
+      "duration": "136.26", 
+      "confidence": null, 
+      "name": "M1", 
+      "time": "1.13"
+    }
+  ], 
+  "words": [
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "This", 
+      "time": "1.13"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "lesson", 
+      "time": "1.46"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "1.97"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "2.15"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "control", 
+      "time": "2.36"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "structures", 
+      "time": "2.90"
+    }, 
+    {
+      "duration": "0.78", 
+      "confidence": "1.000", 
+      "name": "branching", 
+      "time": "3.65"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "4.43"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "0.990", 
+      "name": "There", 
+      "time": "6.14"
+    }, 
+    {
+      "duration": "0.06", 
+      "confidence": "0.990", 
+      "name": "are", 
+      "time": "6.40"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.990", 
+      "name": "five", 
+      "time": "6.47"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "main", 
+      "time": "6.89"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "sections", 
+      "time": "7.25"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "7.94"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "cover", 
+      "time": "8.09"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "flood", 
+      "time": "8.42"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "control", 
+      "time": "8.63"
+    }, 
+    {
+      "duration": "0.78", 
+      "confidence": "1.000", 
+      "name": "structures", 
+      "time": "9.26"
+    }, 
+    {
+      "duration": "0.87", 
+      "confidence": "1.000", 
+      "name": "branching", 
+      "time": "10.13"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "11.0"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "This", 
+      "time": "11.75"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "12.05"
+    }, 
+    {
+      "duration": "0.53", 
+      "confidence": "0.990", 
+      "name": "lesson", 
+      "time": "12.54"
+    }, 
+    {
+      "duration": "0.94", 
+      "confidence": "0.740", 
+      "name": "focuses", 
+      "time": "13.07"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "14.06"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "14.18"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.980", 
+      "name": "third", 
+      "time": "14.30"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "part", 
+      "time": "14.72"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "15.29"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "Nested", 
+      "time": "15.56"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "16.19"
+    }, 
+    {
+      "duration": "0.96", 
+      "confidence": "1.000", 
+      "name": "statements", 
+      "time": "16.31"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "17.27"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "Learning", 
+      "time": "18.52"
+    }, 
+    {
+      "duration": "1.08", 
+      "confidence": "1.000", 
+      "name": "Objectives", 
+      "time": "19.06"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "20.14"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "After", 
+      "time": "21.16"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "this", 
+      "time": "21.52"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "lesson", 
+      "time": "21.82"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "22.45"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "You", 
+      "time": "22.72"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "should", 
+      "time": "22.93"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "be", 
+      "time": "23.17"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "able", 
+      "time": "23.32"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "23.62"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "23.92"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "Explain", 
+      "time": "24.55"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "how", 
+      "time": "25.21"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "nested", 
+      "time": "25.42"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "IF", 
+      "time": "26.02"
+    }, 
+    {
+      "duration": "0.77", 
+      "confidence": "0.660", 
+      "name": "statement", 
+      "time": "26.17"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "works", 
+      "time": "26.95"
+    }, 
+    {
+      "duration": "0.17", 
+      "confidence": "0.930", 
+      "name": "with", 
+      "time": "27.49"
+    }, 
+    {
+      "duration": "0.78", 
+      "confidence": "1.000", 
+      "name": "example", 
+      "time": "27.67"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "28.45"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "29.77"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "0.520", 
+      "name": "nest", 
+      "time": "29.86"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.970", 
+      "name": "to", 
+      "time": "30.16"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.390", 
+      "name": "the", 
+      "time": "30.36"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.390", 
+      "name": "if", 
+      "time": "30.48"
+    }, 
+    {
+      "duration": "0.76", 
+      "confidence": "1.000", 
+      "name": "statement", 
+      "time": "30.60"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "31.36"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "32.34"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "nest", 
+      "time": "32.46"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "32.76"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "0.960", 
+      "name": "give", 
+      "time": "32.97"
+    }, 
+    {
+      "duration": "0.71", 
+      "confidence": "0.940", 
+      "name": "statement", 
+      "time": "33.19"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "allows", 
+      "time": "33.90"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "us", 
+      "time": "34.38"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "34.59"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "perform", 
+      "time": "34.71"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.870", 
+      "name": "and", 
+      "time": "35.28"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.590", 
+      "name": "multiple", 
+      "time": "35.40"
+    }, 
+    {
+      "duration": "0.32", 
+      "confidence": "0.790", 
+      "name": "ways", 
+      "time": "35.82"
+    }, 
+    {
+      "duration": "0.81", 
+      "confidence": "0.750", 
+      "name": "selection", 
+      "time": "36.15"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "36.96"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "In", 
+      "time": "38.13"
+    }, 
+    {
+      "duration": "0.03", 
+      "confidence": "0.980", 
+      "name": "a", 
+      "time": "38.34"
+    }, 
+    {
+      "duration": "0.29", 
+      "confidence": "0.980", 
+      "name": "nest", 
+      "time": "38.37"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "0.940", 
+      "name": "to", 
+      "time": "38.67"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.760", 
+      "name": "the", 
+      "time": "38.91"
+    }, 
+    {
+      "duration": "0.06", 
+      "confidence": "0.480", 
+      "name": "if", 
+      "time": "39.04"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "statement", 
+      "time": "39.12"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "39.87"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "Both", 
+      "time": "40.20"
+    }, 
+    {
+      "duration": "0.22", 
+      "confidence": "0.990", 
+      "name": "the", 
+      "time": "40.62"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.570", 
+      "name": "if", 
+      "time": "40.84"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "branch", 
+      "time": "41.01"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.980", 
+      "name": "and", 
+      "time": "41.61"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "41.76"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.980", 
+      "name": "else", 
+      "time": "41.91"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "branch", 
+      "time": "42.27"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "may", 
+      "time": "42.90"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "contain", 
+      "time": "43.14"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "one", 
+      "time": "43.65"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "or", 
+      "time": "43.95"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "more", 
+      "time": "44.10"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "44.73"
+    }, 
+    {
+      "duration": "0.99", 
+      "confidence": "1.000", 
+      "name": "statements", 
+      "time": "44.94"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "45.93"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "47.13"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "level", 
+      "time": "47.25"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "47.64"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "nested", 
+      "time": "47.73"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "48.27"
+    }, 
+    {
+      "duration": "0.72", 
+      "confidence": "1.000", 
+      "name": "statements", 
+      "time": "48.42"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "49.14"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "be", 
+      "time": "49.35"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "as", 
+      "time": "49.53"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "many", 
+      "time": "49.77"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "as", 
+      "time": "50.25"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "50.40"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.990", 
+      "name": "limit", 
+      "time": "50.52"
+    }, 
+    {
+      "duration": "0.04", 
+      "confidence": "0.580", 
+      "name": ".", 
+      "time": "50.90"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "50.94"
+    }, 
+    {
+      "duration": "0.78", 
+      "confidence": "1.000", 
+      "name": "compiler", 
+      "time": "51.06"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "allows", 
+      "time": "51.84"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "52.59"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "C", 
+      "time": "53.72"
+    }, 
+    {
+      "duration": "0.84", 
+      "confidence": "1.000", 
+      "name": "compiler", 
+      "time": "54.02"
+    }, 
+    {
+      "duration": "0.90", 
+      "confidence": "0.970", 
+      "name": "associates", 
+      "time": "54.86"
+    }, 
+    {
+      "duration": "0.14", 
+      "confidence": "0.890", 
+      "name": "and", 
+      "time": "55.76"
+    }, 
+    {
+      "duration": "0.31", 
+      "confidence": "0.840", 
+      "name": "else", 
+      "time": "55.90"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "0.890", 
+      "name": "part", 
+      "time": "56.21"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "56.69"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "56.87"
+    }, 
+    {
+      "duration": "0.72", 
+      "confidence": "1.000", 
+      "name": "nearest", 
+      "time": "56.99"
+    }, 
+    {
+      "duration": "0.87", 
+      "confidence": "1.000", 
+      "name": "unresolved", 
+      "time": "57.71"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "58.58"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "58.79"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "That", 
+      "time": "59.12"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "59.45"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "59.66"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "59.90"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "statement", 
+      "time": "60.05"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "that", 
+      "time": "60.74"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "does", 
+      "time": "60.89"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "not", 
+      "time": "61.10"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "have", 
+      "time": "61.37"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.990", 
+      "name": "an", 
+      "time": "61.58"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "0.880", 
+      "name": "L", 
+      "time": "61.70"
+    }, 
+    {
+      "duration": "0.83", 
+      "confidence": "1.000", 
+      "name": "statement", 
+      "time": "61.91"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "62.74"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "We", 
+      "time": "64.12"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "64.33"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "also", 
+      "time": "64.54"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "use", 
+      "time": "65.14"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "braces", 
+      "time": "65.56"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "66.16"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "enclose", 
+      "time": "66.31"
+    }, 
+    {
+      "duration": "0.96", 
+      "confidence": "1.000", 
+      "name": "statements", 
+      "time": "66.88"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "67.84"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "In", 
+      "time": "69.21"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "69.42"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "example", 
+      "time": "69.57"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "0.980", 
+      "name": "program", 
+      "time": "70.14"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "0.770", 
+      "name": ".", 
+      "time": "70.80"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "71.10"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "purpose", 
+      "time": "71.22"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "71.91"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "72.06"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "determine", 
+      "time": "72.18"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "72.84"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "maximum", 
+      "time": "72.96"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "value", 
+      "time": "73.65"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "74.19"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "0.870", 
+      "name": "three", 
+      "time": "74.31"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "input", 
+      "time": "74.76"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "numbers", 
+      "time": "75.15"
+    }, 
+    {
+      "duration": "0.14", 
+      "confidence": "0.760", 
+      "name": ".", 
+      "time": "77.25"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "This", 
+      "time": "77.49"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "program", 
+      "time": "77.85"
+    }, 
+    {
+      "duration": "0.38", 
+      "confidence": "0.630", 
+      "name": "reads", 
+      "time": "78.51"
+    }, 
+    {
+      "duration": "0.26", 
+      "confidence": "0.320", 
+      "name": "send", 
+      "time": "78.89"
+    }, 
+    {
+      "duration": "0.29", 
+      "confidence": "0.980", 
+      "name": "three", 
+      "time": "79.15"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "individuals", 
+      "time": "79.44"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "from", 
+      "time": "80.07"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.890", 
+      "name": "the", 
+      "time": "80.28"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "user", 
+      "time": "80.40"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "81.00"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "stores", 
+      "time": "81.18"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "81.84"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "values", 
+      "time": "81.96"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.990", 
+      "name": "in", 
+      "time": "82.56"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "82.68"
+    }, 
+    {
+      "duration": "0.90", 
+      "confidence": "1.000", 
+      "name": "variables", 
+      "time": "82.80"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "0.980", 
+      "name": "and", 
+      "time": "83.70"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.730", 
+      "name": "1", 
+      "time": "83.94"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "84.36"
+    }, 
+    {
+      "duration": "0.23", 
+      "confidence": "0.920", 
+      "name": "And", 
+      "time": "84.66"
+    }, 
+    {
+      "duration": "0.38", 
+      "confidence": "0.730", 
+      "name": "2", 
+      "time": "84.91"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "85.29"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "then", 
+      "time": "85.41"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.680", 
+      "name": "3", 
+      "time": "85.68"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "86.22"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "If", 
+      "time": "87.15"
+    }, 
+    {
+      "duration": "0.49", 
+      "confidence": "0.930", 
+      "name": "anyone", 
+      "time": "87.39"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "87.90"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "greater", 
+      "time": "88.08"
+    }, 
+    {
+      "duration": "0.22", 
+      "confidence": "1.000", 
+      "name": "than", 
+      "time": "88.62"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "0.750", 
+      "name": "n2", 
+      "time": "88.86"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "89.46"
+    }, 
+    {
+      "duration": "0.41", 
+      "confidence": "1.000", 
+      "name": "Then", 
+      "time": "89.76"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "0.660", 
+      "name": "one", 
+      "time": "90.22"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "90.57"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "compared", 
+      "time": "90.72"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "91.32"
+    }, 
+    {
+      "duration": "0.26", 
+      "confidence": "1.000", 
+      "name": "then", 
+      "time": "91.50"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.690", 
+      "name": "3", 
+      "time": "91.77"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "92.31"
+    }, 
+    {
+      "duration": "0.22", 
+      "confidence": "0.890", 
+      "name": "If", 
+      "time": "93.00"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.630", 
+      "name": "any", 
+      "time": "93.30"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.730", 
+      "name": "one", 
+      "time": "93.48"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "93.84"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "greater", 
+      "time": "94.02"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "than", 
+      "time": "94.53"
+    }, 
+    {
+      "duration": "0.72", 
+      "confidence": "1.000", 
+      "name": "N3", 
+      "time": "94.77"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "95.49"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "Then", 
+      "time": "95.73"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "Max", 
+      "time": "96.03"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "96.54"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "assigned", 
+      "time": "96.69"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "97.32"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "97.56"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "value", 
+      "time": "97.65"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "98.13"
+    }, 
+    {
+      "duration": "0.43", 
+      "confidence": "0.650", 
+      "name": "anyone", 
+      "time": "98.28"
+    }, 
+    {
+      "duration": "0.52", 
+      "confidence": "0.380", 
+      "name": ".", 
+      "time": "98.75"
+    }, 
+    {
+      "duration": "0.87", 
+      "confidence": "1.000", 
+      "name": "Otherwise", 
+      "time": "99.87"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "100.74"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "Max", 
+      "time": "101.01"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "101.67"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "assigned", 
+      "time": "101.82"
+    }, 
+    {
+      "duration": "0.22", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "102.33"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.890", 
+      "name": "the", 
+      "time": "102.55"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "value", 
+      "time": "102.66"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "103.14"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.700", 
+      "name": "n", 
+      "time": "103.29"
+    }, 
+    {
+      "duration": "0.61", 
+      "confidence": "0.400", 
+      "name": "3", 
+      "time": "103.46"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "104.07"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "On", 
+      "time": "105.09"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "105.27"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "other", 
+      "time": "105.42"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "hand", 
+      "time": "105.63"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "106.11"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "0.890", 
+      "name": "If", 
+      "time": "106.40"
+    }, 
+    {
+      "duration": "0.22", 
+      "confidence": "0.640", 
+      "name": "then", 
+      "time": "106.61"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.730", 
+      "name": "one", 
+      "time": "106.86"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "107.22"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "less", 
+      "time": "107.34"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.930", 
+      "name": "than", 
+      "time": "107.79"
+    }, 
+    {
+      "duration": "0.62", 
+      "confidence": "0.970", 
+      "name": "N2", 
+      "time": "107.97"
+    }, 
+    {
+      "duration": "0.19", 
+      "confidence": "0.590", 
+      "name": "then", 
+      "time": "108.77"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.930", 
+      "name": "then", 
+      "time": "109.08"
+    }, 
+    {
+      "duration": "0.44", 
+      "confidence": "0.390", 
+      "name": "n2", 
+      "time": "109.42"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.820", 
+      "name": "is", 
+      "time": "109.86"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "compared", 
+      "time": "110.01"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "110.61"
+    }, 
+    {
+      "duration": "0.23", 
+      "confidence": "1.000", 
+      "name": "then", 
+      "time": "110.79"
+    }, 
+    {
+      "duration": "0.04", 
+      "confidence": "0.560", 
+      "name": "a", 
+      "time": "111.02"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.860", 
+      "name": "3", 
+      "time": "111.06"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "in", 
+      "time": "111.39"
+    }, 
+    {
+      "duration": "0.06", 
+      "confidence": "1.000", 
+      "name": "a", 
+      "time": "111.54"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "similar", 
+      "time": "111.60"
+    }, 
+    {
+      "duration": "0.46", 
+      "confidence": "1.000", 
+      "name": "manner", 
+      "time": "112.05"
+    }, 
+    {
+      "duration": "0.02", 
+      "confidence": "0.650", 
+      "name": ".", 
+      "time": "112.51"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "113.47"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "0.980", 
+      "name": "variable", 
+      "time": "113.66"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "Max", 
+      "time": "114.34"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "is", 
+      "time": "114.82"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "assigned", 
+      "time": "114.97"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "115.63"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "0.970", 
+      "name": "the", 
+      "time": "115.84"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "value", 
+      "time": "115.93"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "based", 
+      "time": "116.44"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "116.86"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.940", 
+      "name": "the", 
+      "time": "116.98"
+    }, 
+    {
+      "duration": "0.96", 
+      "confidence": "1.000", 
+      "name": "comparison", 
+      "time": "117.10"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "between", 
+      "time": "118.09"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.490", 
+      "name": "then", 
+      "time": "118.63"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "two", 
+      "time": "118.78"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "119.14"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "then", 
+      "time": "119.26"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.720", 
+      "name": "three", 
+      "time": "119.53"
+    }, 
+    {
+      "duration": "0.90", 
+      "confidence": "0.830", 
+      "name": ".", 
+      "time": "120.07"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "Finally", 
+      "time": "120.97"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "121.66"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "121.96"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "0.980", 
+      "name": "program", 
+      "time": "122.08"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "will", 
+      "time": "122.74"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "0.940", 
+      "name": "print", 
+      "time": "122.98"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "123.43"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "maximum", 
+      "time": "123.55"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "value", 
+      "time": "124.24"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "124.75"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "124.87"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.910", 
+      "name": "three", 
+      "time": "125.02"
+    }, 
+    {
+      "duration": "0.65", 
+      "confidence": "1.000", 
+      "name": "integers", 
+      "time": "125.38"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.830", 
+      "name": "by", 
+      "time": "126.04"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "126.37"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "variable", 
+      "time": "126.46"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "Max", 
+      "time": "127.12"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "127.87"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "In", 
+      "time": "129.54"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "summary", 
+      "time": "129.72"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "130.26"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "After", 
+      "time": "130.56"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "viewing", 
+      "time": "130.92"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "this", 
+      "time": "131.40"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "131.64"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "lesson", 
+      "time": "132.09"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "132.69"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.990", 
+      "name": "You", 
+      "time": "132.99"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.720", 
+      "name": "just", 
+      "time": "133.11"
+    }, 
+    {
+      "duration": "0.23", 
+      "confidence": "1.000", 
+      "name": "should", 
+      "time": "133.24"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "be", 
+      "time": "133.47"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "able", 
+      "time": "133.62"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "133.92"
+    }, 
+    {
+      "duration": "0.72", 
+      "confidence": "1.000", 
+      "name": "explain", 
+      "time": "134.07"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "nested", 
+      "time": "134.79"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "if", 
+      "time": "135.42"
+    }, 
+    {
+      "duration": "0.72", 
+      "confidence": "0.740", 
+      "name": "statements", 
+      "time": "135.54"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "136.29"
+    }, 
+    {
+      "duration": "0.92", 
+      "confidence": "1.000", 
+      "name": "examples", 
+      "time": "136.47"
+    }, 
+    {
+      "duration": "0.00", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "137.39"
+    }
+  ], 
+  "format": "1.0"
+}
