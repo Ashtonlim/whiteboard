@@ -1,0 +1,22 @@
+{% extends "vidboard/base.html" %} {% block title %} WhiteBoard {% endblock %} {% load static %} {% block body %}
+
+
+<main class="">
+    <section class="container">
+        
+        <h1>Modules</h1>
+        <h3 class="caps">{{ course }} - {{ courseCode }}</h3>
+        <div class="vid_row">
+            {% for item in videos %}
+            <div class="vid_box">
+                <a href="{% url 'watch' item.id %}"><img src="{{ item.thumbnail.url }}" alt=""></a>
+                <!-- <video src="{{ item.video.url }}" type="video/mp4" controls></video> -->
+                <div>{{ item.title }}</div>
+            </div>
+            {% endfor %}
+        </div>
+        
+    </section>
+</main>
+
+{% endblock %}
