@@ -3,13 +3,16 @@ from django.http import HttpResponse, Http404, HttpResponseRedirect, JsonRespons
 from django.urls import reverse
 from django.conf import settings
 from .models import Video
+from .serializers import VideoSerializer
+from rest_framework import generics
 
 def index(request):
     videos = Video.objects.all()
+    
     context = {
         "videos" : videos,
-        "course" : videos[0].course,
-        "courseCode" : videos[0].courseCode,
+        # "course" : videos[0].course,
+        # "courseCode" : videos[0].courseCode,
     }
     return render(request, 'vidboard/index.html', context)
 
@@ -19,3 +22,7 @@ def watch(request, video_id):
         "video" : video,
     }
     return render(request, 'vidboard/watch.html', context)
+
+class VideoListCreate(generics.ListCreateAPIView):
+    queryset = Video.objects.all()
+    serializer_class = VideoSerializer
