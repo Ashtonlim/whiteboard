@@ -13,6 +13,7 @@
                 <div class="vid_box">
                     <a href="{% url 'watch' vid.id %}"><img src="{{ vid.thumbnail }}" alt=""></a>
                     <h6 class="vid_title">{{ vid.title }}</h6>
+                    <hr>
                     <div class="vid_subs">{{ vid.desc|truncatewords:10 }}</div>
                 </div>
                 {% endfor %}
