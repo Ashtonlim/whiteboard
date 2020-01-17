@@ -7,12 +7,13 @@
         <h1>Modules</h1>
         
         {% for ck, course in vids.items %}
-            <h3 class="caps">{{ course.courseName }} - {{ course.courseCode }}</h3>
+            <h4 class="caps">{{ course.courseName }} - {{ course.courseCode }}</h4>
             <div class="vid_row">
                 {% for vk, vid in course.ve.items %}
                 <div class="vid_box">
                     <a href="{% url 'watch' vid.id %}"><img src="{{ vid.thumbnail }}" alt=""></a>
-                    <div>{{ vid.title }}</div>
+                    <h6 class="vid_title">{{ vid.title }}</h6>
+                    <div class="vid_subs">{{ vid.desc|truncatewords:10 }}</div>
                 </div>
                 {% endfor %}
             </div>

@@ -13,6 +13,7 @@ def sortVids(videos, course):
             "likes" : vid.likes,
             "dislikes" : vid.dislikes,
             "uploadDate" : vid.uploadDate,
+            "subs" : vid.subs,
         })
     for c in course:
         if len(courseVids[c.id-1]) != 0:

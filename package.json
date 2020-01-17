@@ -4,8 +4,7 @@
   "description": "whiteboard",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development --watch ./frontend/src/index.js --output ./frontend/static/frontend/main.js",
-    "build": "webpack --mode production ./frontend/src/index.js --output ./frontend/static/frontend/main.js",
+    "start": "webpack --config webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,6 +27,15 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.2.0",
+    "filemanager-webpack-plugin": "^2.0.5",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "webpack-dev-server": "^3.8.2",
+    "webpack-merge": "^4.2.2"
   }
 }
