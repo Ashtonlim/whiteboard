@@ -3,10 +3,13 @@
 .vid_row {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
 
     .vid_box {
-        padding-right: 20px;
+        // padding-right: 20px;
         margin-bottom: 45px;
+        width: 23%;
     }
 
     video{
@@ -15,8 +18,8 @@
     }
 
     img{
-        width: 300px;
-        height: 169px;
+        width: 100%;
+        height: auto;
         margin-bottom: 10px;
 
         &:hover{
