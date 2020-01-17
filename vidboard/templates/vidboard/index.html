@@ -5,18 +5,67 @@
     <section class="container">
         
         <h1>Modules</h1>
-        <h3 class="caps">{{ course }} - {{ courseCode }}</h3>
-        <div class="vid_row">
-            {% for item in videos %}
-            <div class="vid_box">
-                <a href="{% url 'watch' item.id %}"><img src="{{ item.thumbnail.url }}" alt=""></a>
-                <!-- <video src="{{ item.video.url }}" type="video/mp4" controls></video> -->
-                <div>{{ item.title }}</div>
-            </div>
-            {% endfor %}
-        </div>
         
+        {% for ck, course in vids.items %}
+            <h3 class="caps">{{ course.courseName }} - {{ course.courseCode }}</h3>
+            <div class="vid_row">
+                {% for vk, vid in course.ve.items %}
+                <div class="vid_box">
+                    <a href="{% url 'watch' vid.id %}"><img src="{{ vid.thumbnail }}" alt=""></a>
+                    <div>{{ vid.title }}</div>
+                </div>
+                {% endfor %}
+            </div>
+            </div>
+        {% endfor %}
     </section>
+    <!-- <section class="container">
+        <div id="addhere" class="vid_row">
+        </div>
+    </section> -->
 </main>
-
+<script>
+    let data;
+    
+    
+    fetch('api/videos/', {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        // body: JSON.stringify(data)
+    })
+    .then((res) => res.json())
+    .then((data) => {
+        console.log(data)
+        let ele = document.getElementById('addhere')
+        let vidObj = [];
+        data.forEach(function(vid){
+            vidObj.push(vid);
+            // ele.innerHTML += `<div class="vid_box">
+            //     <a href="${ vid.id }"><img src="${ vid.thumbnail }" alt=""></a>
+            //     <div>${ vid.title }</div>
+            // </div>`
+        });
+        vidObj.forEach(function(vids){
+            console.log(vids)
+            // let div = document.createElement("div");
+            // let img = document.createElement("img");
+            // let a = document.createElement("a");
+            
+            // div.className = 'vids_box'
+            // let d = ele.appendChild(div)
+            // let link = d.appendChild(a)
+            // let thumbnail = ele.appendChild(img)
+            // let title = ele.appendChild(div)
+            // // title.innerHTML = "hi"
+            ele.innerHTML += `<div class="vid_box">
+                <a href="${ vids.id }"><img src="${ vids.thumbnail }" alt=""></a>
+                <div>${ vids.title }</div>
+            </div>`
+        });
+    })
+    // .then(blob => {console.log(blob);})
+    
+</script>
 {% endblock %}

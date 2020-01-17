@@ -37,7 +37,12 @@
                 </nav>
             </div>
             <div class="header_block sbox">
-                <input type="text" placeholder="Search video...">
+                <form  method="GET">
+                    <!-- {% csrf_token %} -->
+                    {{ form }}
+                    <!-- <input name="q" type="text" value="{{ request.GET.q }}" placeholder="Search video..."> -->
+                    <button type="submit" value="Submit">Submit</button>
+                </form>
             </div>
         </div>
     </header>

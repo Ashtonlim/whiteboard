@@ -8,6 +8,7 @@ router.register('api/videos', VideoViewSet, 'videos')
 # urlpatterns = router.urls
 urlpatterns = [
     path('', views.index, name='index'),
+    path('search/<int:video_id>', views.watch, name='watch'),
     path('<int:video_id>', views.watch, name='watch'),
     path('api/videos/', views.VideoListCreate.as_view())
 ]

@@ -19,8 +19,10 @@ class Video(models.Model):
     likes = models.PositiveIntegerField(default=0)
     dislikes = models.PositiveIntegerField(default=0)
     uploadDate = models.DateTimeField(auto_now_add=True, blank=False)
+    subs = models.TextField(default='', blank=False)
 
     def __str__(self):
         return f'{self.title}'
 
 # class Captions(models.Model):
+#     course 
