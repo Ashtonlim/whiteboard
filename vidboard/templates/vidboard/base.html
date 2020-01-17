@@ -37,11 +37,18 @@
                 </nav>
             </div>
             <div class="header_block sbox">
-                <form  method="GET">
+                <form class="sf" method="GET">
                     <!-- {% csrf_token %} -->
-                    {{ form }}
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                          <span class="input-group-text" id="inputGroupPrepend">Search</span>
+                        </div>
+                        {{ form.q }}
+                        
+                      </div>
+                    {{ form.course_filter }}
                     <!-- <input name="q" type="text" value="{{ request.GET.q }}" placeholder="Search video..."> -->
-                    <button type="submit" value="Submit">Submit</button>
+                    <button type="submit" class="btn btn-primary my-1" value="Submit">Submit</button>
                 </form>
             </div>
         </div>

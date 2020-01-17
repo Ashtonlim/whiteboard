@@ -18,15 +18,40 @@
         justify-content: space-between;
     }
     .header_block.sbox{
-        width: 35%;
+        width: 70%;
+        display: flex;
     }
-    input{
-        border-radius: 50px;
-        outline: none;
-        border: 1px #aaa solid;
-        height: 30px;
-        margin: 5px 0px;
-        padding: 20px 20px;
+    
+
+    form.sf {
+        display: flex;
+        flex-direction: row;
+        margin: auto 0px;
+        height: 35px;
         width: 100%;
+        
+        #id_q {
+            width: 70%;
+            // height: 30px;
+            margin-bottom: 0px !important;
+        }
+        #id_course_filter {
+            width: 50%;
+            margin-right: 10px;
+            margin-top: 0px !important;
+            margin-bottom: 0px !important;
+            // height: 30px;
+            // padding: 0px 15px;
+            option {
+                font-size: 0.9em;
+            }
+        }
+        button {
+            height: 100%;
+            margin-top: 0px !important;
+            margin-bottom: 0px !important;
+            padding: 0px 15px;
+        }
+
     }
 }

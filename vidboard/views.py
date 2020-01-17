@@ -29,11 +29,11 @@ def index(request):
                     print(word)
                     if chosen != "":
                         videos = Video.objects.filter(
-                            Q(course = chosen) & (Q(pk__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word))
+                            Q(course = chosen) & (Q(desc__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word))
                         )
                     else:
                         videos = Video.objects.filter(
-                            Q(pk__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word)
+                            Q(desc__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word)
                         )
                     print(videos)
                     result_list = set(chain(result_list, videos))
