@@ -4,23 +4,20 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: left;
 
     .vid_box {
-        // padding-right: 20px;
+        padding-right: 15px;
         margin-bottom: 45px;
         width: 23%;
-    }
-
-    video{
-        width: 300px;
-        height: 169px;
     }
 
     img{
         width: 100%;
         height: auto;
+        max-height: 135px;
         margin-bottom: 10px;
+        object-fit: contain;
 
         &:hover{
             transition: box-shadow 0.3s;
@@ -28,28 +25,23 @@
         }
     }
     
-    .vid_title {
-        font-weight: bold;
-    }
-
+    
     hr {
         margin-top: 0px;
         margin-bottom: 0.1em;
     }
-
-    .vid_subs {
-        font-size: 0.75em;
-    }
-
-    .caps {
-        text-transform: capitalize
-    }
     
 }
 
-
-.watch_content video{
-    width: 80%;
-    height: auto;
-    padding-bottom: 20px;
+.vid_title {
+    font-weight: bold;
 }
+
+.vid_subs {
+    font-size: 0.75em;
+}
+
+.caps {
+    text-transform: capitalize
+}
+

@@ -44,30 +44,15 @@
         let vidObj = [];
         data.forEach(function(vid){
             vidObj.push(vid);
-            // ele.innerHTML += `<div class="vid_box">
-            //     <a href="${ vid.id }"><img src="${ vid.thumbnail }" alt=""></a>
-            //     <div>${ vid.title }</div>
-            // </div>`
         });
         vidObj.forEach(function(vids){
             console.log(vids)
-            // let div = document.createElement("div");
-            // let img = document.createElement("img");
-            // let a = document.createElement("a");
-            
-            // div.className = 'vids_box'
-            // let d = ele.appendChild(div)
-            // let link = d.appendChild(a)
-            // let thumbnail = ele.appendChild(img)
-            // let title = ele.appendChild(div)
-            // // title.innerHTML = "hi"
             ele.innerHTML += `<div class="vid_box">
                 <a href="${ vids.id }"><img src="${ vids.thumbnail }" alt=""></a>
                 <div>${ vids.title }</div>
             </div>`
         });
     })
-    // .then(blob => {console.log(blob);})
     
 </script>
 {% endblock %}

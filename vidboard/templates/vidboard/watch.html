@@ -6,8 +6,9 @@
         {% for item in video %}
         <div class="watch_content">
             <video src="{{ item.video.url }}" type="video/mp4" controls autoplay></video>
-            <h4 class="vid_title caps">{{ item.title }}</h4>
-            <span class="caps">{{ item.course }} - {{ item.courseCode }}</span>
+            <h6 class="vid_title caps">{{ item.title }}</h6>
+            <hr align="left">
+            <div class="vid_subs">{{ item.desc|truncatewords:10 }}</div>
         </div>
         {% endfor %}
         

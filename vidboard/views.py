@@ -56,6 +56,7 @@ def watch(request, video_id):
     video = Video.objects.filter(pk=video_id)
     context = {
         "video" : video,
+        "form": q()
     }
     return render(request, 'vidboard/watch.html', context)
 
