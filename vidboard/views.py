@@ -22,26 +22,16 @@ def index(request):
         if form.is_valid():
             query = form.cleaned_data['q']
             chosen = form['course_filter'].value()
-            print(type(chosen))
             if query is not "":
                 result_list = []
+                conditions = Q()
+                if chosen != "":
+                    conditions &= Q(course = chosen)
                 for word in query.split():
-                    print(word)
-                    if chosen != "":
-                        videos = Video.objects.filter(
-                            Q(course = chosen) & (Q(desc__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word))
-                        )
-                    else:
-                        videos = Video.objects.filter(
-                            Q(desc__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word)
-                        )
-                    print(videos)
-                    result_list = set(chain(result_list, videos))
-                print(result_list)
-                videos = result_list
+                    conditions &= ((Q(desc__icontains=word) | Q(title__icontains=word) | Q(subs__icontains=word)))
                 
-                # return HttpResponseRedirect(render(request, 'vidboard/index.html', context))
-                # return render(request, 'vidboard/results.html', context)
+                videos = Video.objects.filter(conditions)
+                print(videos)
     else:
         form = q()
     
